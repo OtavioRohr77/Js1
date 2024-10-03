@@ -1,0 +1,13 @@
+.verde{
+    background-color: greenyellow;
+    width: 300px;
+    height: 100px;
+    display: block;
+}
+
+.amarelo{
+    background-color: yellow;
+    width: 300px;
+    height: 100px;
+    display: block;
+}
